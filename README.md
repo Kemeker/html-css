@@ -1,2 +1,4 @@
 # html-css
- curso de html e css
+Curso de HTML e CSS
+
+Agora estou aprendendo a gerenciar meus repositorios
